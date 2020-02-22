@@ -1,32 +1,59 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+  <v-app id="inspire">
+    <v-app-bar
+            app
+            clipped-left
+    >
+      <v-toolbar-title style="width: 240px">2019-nCoV Tracking</v-toolbar-title>
+      <v-tabs color="teal" id="tab">
+        <v-tab>
+          <router-link to="/" class="link">Home</router-link>
+        </v-tab>
+        <v-tab>
+          <router-link to="/news" class="link">News</router-link>
+        </v-tab>
+        <v-tab>
+          <router-link to="/future" class="link">Future</router-link>
+        </v-tab>
+      </v-tabs>
+    </v-app-bar>
+
     <router-view/>
-  </div>
+
+  </v-app>
 </template>
 
+<script>
+    export default {
+        name: 'App',
+
+        components: {},
+
+        data: () => ({}),
+
+        created() {
+            this.$vuetify.theme.dark = false
+        },
+    };
+</script>
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+  #tab a {
+    /*font-weight: bold;*/
+    text-decoration: none;
+    color: inherit;
+  }
 
-#nav {
-  padding: 30px;
-}
+  #tab a.router-link-exact-active {
+    text-decoration: none;
+    color: inherit;
+  }
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
+  .link {
+    height: 64px;
+    align-items: center;
+    display: flex;
+    /*font-size: 1rem;*/
+    font-size: 0.875rem;
+  }
 </style>
