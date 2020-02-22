@@ -4,16 +4,13 @@
             app
             clipped-left
     >
-      <v-toolbar-title style="width: 240px">2019-nCoV Tracking</v-toolbar-title>
+      <v-toolbar-title style="width: 200px">Discovery Process</v-toolbar-title>
       <v-tabs color="teal" id="tab">
         <v-tab>
-          <router-link to="/" class="link">Home</router-link>
+          <router-link to="/WVS/NationProud" class="link">WVS Online Analysis</router-link>
         </v-tab>
         <v-tab>
-          <router-link to="/news" class="link">News</router-link>
-        </v-tab>
-        <v-tab>
-          <router-link to="/future" class="link">Future</router-link>
+          <router-link to="/news" class="link">My Discovery Process</router-link>
         </v-tab>
       </v-tabs>
     </v-app-bar>
@@ -32,7 +29,7 @@
         data: () => ({}),
 
         created() {
-            this.$vuetify.theme.dark = false
+            this.$vuetify.theme.dark = false;
         },
     };
 </script>

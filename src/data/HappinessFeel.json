@@ -1,0 +1,237 @@
+{
+  "1995_1999": [
+    {
+      "Country": "Argentina",
+      "Very happy": 28.8,
+      "Quite happy": 52.8,
+      "Not very happy": 14.9,
+      "Not at all happy": 2.4,
+      "Not know": 1.1
+    },
+    {
+      "Country": "Australia",
+      "Very happy": 42.8,
+      "Quite happy": 51.5,
+      "Not very happy": 4.4,
+      "Not at all happy": 1,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Brazil",
+      "Very happy": 22,
+      "Quite happy": 60.9,
+      "Not very happy": 14.9,
+      "Not at all happy": 2.1,
+      "Not know": 0.1
+    },
+    {
+      "Country": "Bulgaria",
+      "Very happy": 9,
+      "Quite happy": 46.5,
+      "Not very happy": 32.7,
+      "Not at all happy": 8.7,
+      "Not know": 3.1
+    },
+    {
+      "Country": "Chile",
+      "Very happy": 27,
+      "Quite happy": 52.7,
+      "Not very happy": 19.2,
+      "Not at all happy": 0.7,
+      "Not know": 0.4
+    },
+    {
+      "Country": "China",
+      "Very happy": 22.7,
+      "Quite happy": 60.9,
+      "Not very happy": 14.1,
+      "Not at all happy": 1.7,
+      "Not know": 0.6
+    },
+    {
+      "Country": "Taiwan",
+      "Very happy": 29.7,
+      "Quite happy": 60.9,
+      "Not very happy": 7.3,
+      "Not at all happy": 1.5,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Colombia",
+      "Very happy": 47.1,
+      "Quite happy": 37.2,
+      "Not very happy": 14.7,
+      "Not at all happy": 1,
+      "Not know": 0
+    },
+    {
+      "Country": "Georgia",
+      "Very happy": 11.6,
+      "Quite happy": 53.6,
+      "Not very happy": 29.1,
+      "Not at all happy": 5.2,
+      "Not know": 0.4
+    },
+    {
+      "Country": "India",
+      "Very happy": 29.9,
+      "Quite happy": 46,
+      "Not very happy": 19.8,
+      "Not at all happy": 2.8,
+      "Not know": 1.5
+    },
+    {
+      "Country": "Japan",
+      "Very happy": 32.5,
+      "Quite happy": 56.5,
+      "Not very happy": 8.9,
+      "Not at all happy": 0.6,
+      "Not know": 1.4
+    },
+    {
+      "Country": "South Korea",
+      "Very happy": 11.9,
+      "Quite happy": 76.9,
+      "Not very happy": 10.1,
+      "Not at all happy": 1,
+      "Not know": 0.1
+    },
+    {
+      "Country": "Mexico",
+      "Very happy": 31.5,
+      "Quite happy": 38.1,
+      "Not very happy": 26.3,
+      "Not at all happy": 2.6,
+      "Not know": 1.5
+    },
+    {
+      "Country": "New Zealand",
+      "Very happy": 32.8,
+      "Quite happy": 61.5,
+      "Not very happy": 4.3,
+      "Not at all happy": 0.6,
+      "Not know": 0.1
+    },
+    {
+      "Country": "Pakistan",
+      "Very happy": 27.9,
+      "Quite happy": 51.2,
+      "Not very happy": 16.9,
+      "Not at all happy": 4,
+      "Not know": 0
+    },
+    {
+      "Country": "Peru",
+      "Very happy": 28.2,
+      "Quite happy": 34.7,
+      "Not very happy": 35.1,
+      "Not at all happy": 1.2,
+      "Not know": 0.8
+    },
+    {
+      "Country": "Philippines",
+      "Very happy": 40.2,
+      "Quite happy": 52.2,
+      "Not very happy": 6.3,
+      "Not at all happy": 1.1,
+      "Not know": 0.1
+    },
+    {
+      "Country": "Poland",
+      "Very happy": 18.3,
+      "Quite happy": 67,
+      "Not very happy": 11.5,
+      "Not at all happy": 2.5,
+      "Not know": 0.7
+    },
+    {
+      "Country": "Romania",
+      "Very happy": 5.1,
+      "Quite happy": 51,
+      "Not very happy": 35.2,
+      "Not at all happy": 7.1,
+      "Not know": 1.6
+    },
+    {
+      "Country": "Russia",
+      "Very happy": 6.1,
+      "Quite happy": 44.1,
+      "Not very happy": 40.3,
+      "Not at all happy": 7.6,
+      "Not know": 1.9
+    },
+    {
+      "Country": "Slovenia",
+      "Very happy": 13.4,
+      "Quite happy": 60.4,
+      "Not very happy": 22.5,
+      "Not at all happy": 2.8,
+      "Not know": 0.9
+    },
+    {
+      "Country": "South Africa",
+      "Very happy": 35.3,
+      "Quite happy": 37.1,
+      "Not very happy": 21.7,
+      "Not at all happy": 5.6,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Spain",
+      "Very happy": 18.7,
+      "Quite happy": 67.8,
+      "Not very happy": 12.2,
+      "Not at all happy": 0.9,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Sweden",
+      "Very happy": 39.2,
+      "Quite happy": 54.7,
+      "Not very happy": 4.1,
+      "Not at all happy": 0.8,
+      "Not know": 1.2
+    },
+    {
+      "Country": "Turkey",
+      "Very happy": 51,
+      "Quite happy": 37.3,
+      "Not very happy": 9.4,
+      "Not at all happy": 2.1,
+      "Not know": 0.1
+    },
+    {
+      "Country": "Ukraine",
+      "Very happy": 4.9,
+      "Quite happy": 40.9,
+      "Not very happy": 40.9,
+      "Not at all happy": 8.4,
+      "Not know": 4.8
+    },
+    {
+      "Country": "United States",
+      "Very happy": 46.3,
+      "Quite happy": 47.5,
+      "Not very happy": 5.3,
+      "Not at all happy": 0.5,
+      "Not know": 0.4
+    },
+    {
+      "Country": "Uruguay",
+      "Very happy": 20.6,
+      "Quite happy": 58.8,
+      "Not very happy": 17.6,
+      "Not at all happy": 2.4,
+      "Not know": 0.6
+    },
+    {
+      "Country": "Serbia",
+      "Very happy": 13.9,
+      "Quite happy": 56,
+      "Not very happy": 24.5,
+      "Not at all happy": 4.5,
+      "Not know": 1.1
+    }
+  ],
+  "2000_2004": []
+}

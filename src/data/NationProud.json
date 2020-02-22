@@ -1,0 +1,257 @@
+{
+  "1995_1999": [
+    {
+      "Country": "Argentina",
+      "Very proud": 54.2,
+      "Quite proud": 28.4,
+      "Not very proud": 8.2,
+      "Not at all proud": 2.6,
+      "I am not [nationality]": 4.8,
+      "Not know": 1.9
+    },
+    {
+      "Country": "Australia",
+      "Very proud": 69.9,
+      "Quite proud": 22.9,
+      "Not very proud": 2.1,
+      "Not at all proud": 0.4,
+      "I am not [nationality]": 4.1,
+      "Not know": 0.6
+    },
+    {
+      "Country": "Brazil",
+      "Very proud": 64.2,
+      "Quite proud": 19.2,
+      "Not very proud": 14.2,
+      "Not at all proud": 1.9,
+      "I am not [nationality]": 0.3,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Bulgaria",
+      "Very proud": 45.6,
+      "Quite proud": 30.9,
+      "Not very proud": 10.4,
+      "Not at all proud": 3.1,
+      "I am not [nationality]": 7.3,
+      "Not know": 2.7
+    },
+    {
+      "Country": "Chile",
+      "Very proud": 54.7,
+      "Quite proud": 31.8,
+      "Not very proud": 11.6,
+      "Not at all proud": 1.1,
+      "I am not [nationality]": 0.2,
+      "Not know": 0.5
+    },
+    {
+      "Country": "China",
+      "Very proud": 39,
+      "Quite proud": 47.4,
+      "Not very proud": 9.9,
+      "Not at all proud": 1.5,
+      "I am not [nationality]": 0,
+      "Not know": 2.2
+    },
+    {
+      "Country": "Taiwan",
+      "Very proud": 13.8,
+      "Quite proud": 52.6,
+      "Not very proud": 20.8,
+      "Not at all proud": 5.8,
+      "I am not [nationality]": 0,
+      "Not know": 6.9
+    },
+    {
+      "Country": "Colombia",
+      "Very proud": 84.5,
+      "Quite proud": 12.2,
+      "Not very proud": 2.2,
+      "Not at all proud": 0.8,
+      "I am not [nationality]": 0,
+      "Not know": 0.2
+    },
+    {
+      "Country": "Georgia",
+      "Very proud": 63.8,
+      "Quite proud": 29.4,
+      "Not very proud": 4.3,
+      "Not at all proud": 1.1,
+      "I am not [nationality]": 0.3,
+      "Not know": 1
+    },
+    {
+      "Country": "India",
+      "Very proud": 69.6,
+      "Quite proud": 18.1,
+      "Not very proud": 7.1,
+      "Not at all proud": 1.2,
+      "I am not [nationality]": 0,
+      "Not know": 4
+    },
+    {
+      "Country": "Japan",
+      "Very proud": 25.3,
+      "Quite proud": 34.7,
+      "Not very proud": 34.5,
+      "Not at all proud": 2.8,
+      "I am not [nationality]": 0,
+      "Not know": 2.7
+    },
+    {
+      "Country": "Mexico",
+      "Very proud": 71.5,
+      "Quite proud": 19.4,
+      "Not very proud": 5,
+      "Not at all proud": 0.8,
+      "I am not [nationality]": 0.1,
+      "Not know": 3.2
+    },
+    {
+      "Country": "New Zealand",
+      "Very proud": 60.4,
+      "Quite proud": 29,
+      "Not very proud": 2.4,
+      "Not at all proud": 0.9,
+      "I am not [nationality]": 4.8,
+      "Not know": 1
+    },
+    {
+      "Country": "Pakistan",
+      "Very proud": 86.5,
+      "Quite proud": 11,
+      "Not very proud": 2.1,
+      "Not at all proud": 0.4,
+      "I am not [nationality]": 0,
+      "Not know": 0
+    },
+    {
+      "Country": "Peru",
+      "Very proud": 79.5,
+      "Quite proud": 14.7,
+      "Not very proud": 4,
+      "Not at all proud": 0.8,
+      "I am not [nationality]": 0.2,
+      "Not know": 0.7
+    },
+    {
+      "Country": "Philippines",
+      "Very proud": 74,
+      "Quite proud": 20.5,
+      "Not very proud": 2.8,
+      "Not at all proud": 2.6,
+      "I am not [nationality]": 0.1,
+      "Not know": 0
+    },
+    {
+      "Country": "Poland",
+      "Very proud": 68.8,
+      "Quite proud": 26.6,
+      "Not very proud": 2.1,
+      "Not at all proud": 0.8,
+      "I am not [nationality]": 0.4,
+      "Not know": 1.3
+    },
+    {
+      "Country": "Romania",
+      "Very proud": 43.7,
+      "Quite proud": 37.9,
+      "Not very proud": 13.2,
+      "Not at all proud": 1.9,
+      "I am not [nationality]": 0.2,
+      "Not know": 3.1
+    },
+    {
+      "Country": "Russia",
+      "Very proud": 29.3,
+      "Quite proud": 39.4,
+      "Not very proud": 20.6,
+      "Not at all proud": 6.9,
+      "I am not [nationality]": 0.4,
+      "Not know": 3.5
+    },
+    {
+      "Country": "Slovenia",
+      "Very proud": 57.3,
+      "Quite proud": 29,
+      "Not very proud": 6.8,
+      "Not at all proud": 1.2,
+      "I am not [nationality]": 4.8,
+      "Not know": 1
+    },
+    {
+      "Country": "South Africa",
+      "Very proud": 81.9,
+      "Quite proud": 13.6,
+      "Not very proud": 3.1,
+      "Not at all proud": 0.5,
+      "I am not [nationality]": 0.7,
+      "Not know": 0.3
+    },
+    {
+      "Country": "Spain",
+      "Very proud": 63.8,
+      "Quite proud": 26.1,
+      "Not very proud": 4.5,
+      "Not at all proud": 3,
+      "I am not [nationality]": 1,
+      "Not know": 1.5
+    },
+    {
+      "Country": "Sweden",
+      "Very proud": 44.1,
+      "Quite proud": 41,
+      "Not very proud": 9.3,
+      "Not at all proud": 1.2,
+      "I am not [nationality]": 2.8,
+      "Not know": 1.6
+    },
+    {
+      "Country": "Turkey",
+      "Very proud": 81.1,
+      "Quite proud": 12.6,
+      "Not very proud": 3.5,
+      "Not at all proud": 1.3,
+      "I am not [nationality]": 0,
+      "Not know": 0.6
+    },
+    {
+      "Country": "Ukraine",
+      "Very proud": 22.6,
+      "Quite proud": 38.3,
+      "Not very proud": 18.4,
+      "Not at all proud": 11.2,
+      "I am not [nationality]": 0.2,
+      "Not know": 9.3
+    },
+    {
+      "Country": "United States",
+      "Very proud": 76.7,
+      "Quite proud": 19.6,
+      "Not very proud": 1.5,
+      "Not at all proud": 0.3,
+      "I am not [nationality]": 1,
+      "Not know": 0.8
+    },
+    {
+      "Country": "Uruguay",
+      "Very proud": 72.4,
+      "Quite proud": 19.7,
+      "Not very proud": 3.3,
+      "Not at all proud": 1.7,
+      "I am not [nationality]": 0,
+      "Not know": 2.9
+    },
+    {
+      "Country": "Serbia",
+      "Very proud": 38.4,
+      "Quite proud": 32.5,
+      "Not very proud": 18.9,
+      "Not at all proud": 4.5,
+      "I am not [nationality]": 2.2,
+      "Not know": 3.5
+    }
+  ],
+  "2000_2004": []
+}
