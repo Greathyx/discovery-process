@@ -6,9 +6,10 @@ import HighestEducation from '../views/HighestEducation';
 import IncomeEquality from "../views/IncomeEquality";
 import HappinessFeel from "../views/HappinessFeel";
 import MaritalStatus from "../views/MaritalStatus";
-import EscapePoverty from "../views/EscapePoverty";
-import SexualFreedom from "../views/SexualFreedom";
+import HealthState from "../views/HealthState";
+import Freedom from "../views/Freedom";
 import ChildrenAmount from "../views/ChildrenAmount";
+import DiscoveryProcess from "../views/DiscoveryProcess";
 
 Vue.use(VueRouter);
 
@@ -45,12 +46,12 @@ const routes = [
                 component: MaritalStatus
             },
             {
-                path: 'EscapePoverty',
-                component: EscapePoverty
+                path: 'HealthState',
+                component: HealthState
             },
             {
-                path: 'SexualFreedom',
-                component: SexualFreedom
+                path: 'Freedom',
+                component: Freedom
             },
             {
                 path: 'ChildrenAmount',
@@ -59,12 +60,9 @@ const routes = [
         ]
     },
     {
-        path: '/about',
-        name: 'About',
-        // route level code-splitting
-        // this generates a separate chunk (about.[hash].js) for this route
-        // which is lazy-loaded when the route is visited.
-        component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+        path: '/DiscoveryProcess',
+        name: 'DiscoveryProcess',
+        component: DiscoveryProcess
     }
 ];
 

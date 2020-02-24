@@ -262,5 +262,675 @@
       "Single": 19.1
     }
   ],
-  "2000_2004": []
+  "2000_2004": [
+    {
+      "Country": "Argentina",
+      "Married": 47.5,
+      "Living together as married": 11,
+      "Divorced": 2,
+      "Separated": 5.3,
+      "Widowed": 7.9,
+      "Single": 26.3,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Chile",
+      "Married": 56.5,
+      "Living together as married": 8.5,
+      "Divorced": 0.9,
+      "Separated": 5.4,
+      "Widowed": 5.6,
+      "Single": 22.9,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "China",
+      "Married": 86.9,
+      "Living together as married": 0.3,
+      "Divorced": 0.9,
+      "Separated": 0.1,
+      "Widowed": 2.2,
+      "Single": 9.3,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "India",
+      "Married": 78.3,
+      "Living together as married": 6.8,
+      "Divorced": 0.3,
+      "Separated": 0.5,
+      "Widowed": 4.8,
+      "Single": 9.2,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Japan",
+      "Married": 72.1,
+      "Living together as married": 1.2,
+      "Divorced": 2.9,
+      "Separated": 0.8,
+      "Widowed": 4,
+      "Single": 17.6,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "South Korea",
+      "Married": 68.6,
+      "Living together as married": 0.6,
+      "Divorced": 1.2,
+      "Separated": 0.5,
+      "Widowed": 2.2,
+      "Single": 26.9,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Mexico",
+      "Married": 60.8,
+      "Living together as married": 6.3,
+      "Divorced": 1.6,
+      "Separated": 2.7,
+      "Widowed": 5.4,
+      "Single": 22.8,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Pakistan",
+      "Married": 66,
+      "Living together as married": 0,
+      "Divorced": 0,
+      "Separated": 0,
+      "Widowed": 1.6,
+      "Single": 32.4,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Peru",
+      "Married": 41,
+      "Living together as married": 16.9,
+      "Divorced": 1.1,
+      "Separated": 4.1,
+      "Widowed": 1.8,
+      "Single": 34.7,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Philippines",
+      "Married": 74.1,
+      "Living together as married": 2.2,
+      "Divorced": 0.4,
+      "Separated": 1,
+      "Widowed": 4.1,
+      "Single": 18.3,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Singapore",
+      "Married": 45.1,
+      "Living together as married": 0.1,
+      "Divorced": 1.5,
+      "Separated": 0.5,
+      "Widowed": 1.6,
+      "Single": 51.2,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "South Africa",
+      "Married": 38,
+      "Living together as married": 10.9,
+      "Divorced": 2.1,
+      "Separated": 1.1,
+      "Widowed": 4.3,
+      "Single": 43.5,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Spain",
+      "Married": 55.3,
+      "Living together as married": 4.3,
+      "Divorced": 1.5,
+      "Separated": 2.2,
+      "Widowed": 8,
+      "Single": 28.6,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Sweden",
+      "Married": 46.9,
+      "Living together as married": 15,
+      "Divorced": 7.1,
+      "Separated": 0,
+      "Widowed": 3.1,
+      "Single": 22.5,
+      "Living apart while married/cohabitation": 5.2
+    },
+    {
+      "Country": "Turkey",
+      "Married": 72.7,
+      "Living together as married": 0.3,
+      "Divorced": 0.9,
+      "Separated": 0.3,
+      "Widowed": 3.5,
+      "Single": 22.1,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "United States",
+      "Married": 48.2,
+      "Living together as married": 7.3,
+      "Divorced": 10.7,
+      "Separated": 2.6,
+      "Widowed": 4.1,
+      "Single": 27.2,
+      "Living apart while married/cohabitation": 0
+    },
+    {
+      "Country": "Serbia",
+      "Married": 63.6,
+      "Living together as married": 2.3,
+      "Divorced": 5,
+      "Separated": 0.9,
+      "Widowed": 9.4,
+      "Single": 18.8,
+      "Living apart while married/cohabitation": 0
+    }
+  ],
+  "2005_2009": [
+    {
+      "Country": "Argentina",
+      "Married": 41,
+      "Living together as married": 15.1,
+      "Divorced": 2.8,
+      "Separated": 5.4,
+      "Widowed": 9.3,
+      "Single/Never married": 26.4
+    },
+    {
+      "Country": "Australia",
+      "Married": 59.6,
+      "Living together as married": 7.7,
+      "Divorced": 6.5,
+      "Separated": 3.2,
+      "Widowed": 6.8,
+      "Single/Never married": 15.2
+    },
+    {
+      "Country": "Brazil",
+      "Married": 41.6,
+      "Living together as married": 16.6,
+      "Divorced": 3.4,
+      "Separated": 5.6,
+      "Widowed": 5.8,
+      "Single/Never married": 26.8
+    },
+    {
+      "Country": "Bulgaria",
+      "Married": 63.9,
+      "Living together as married": 5.4,
+      "Divorced": 4.7,
+      "Separated": 0.9,
+      "Widowed": 11.6,
+      "Single/Never married": 13.3
+    },
+    {
+      "Country": "Chile",
+      "Married": 48.6,
+      "Living together as married": 8.7,
+      "Divorced": 1.2,
+      "Separated": 6.3,
+      "Widowed": 8.8,
+      "Single/Never married": 26.1
+    },
+    {
+      "Country": "China",
+      "Married": 79,
+      "Living together as married": 1.2,
+      "Divorced": 1.2,
+      "Separated": 0.6,
+      "Widowed": 2.7,
+      "Single/Never married": 14.5
+    },
+    {
+      "Country": "Taiwan",
+      "Married": 63.1,
+      "Living together as married": 0.3,
+      "Divorced": 3.4,
+      "Separated": 0.5,
+      "Widowed": 5.1,
+      "Single/Never married": 27.7
+    },
+    {
+      "Country": "Colombia",
+      "Married": 27.6,
+      "Living together as married": 31.4,
+      "Divorced": 0,
+      "Separated": 4.9,
+      "Widowed": 3.7,
+      "Single/Never married": 32.3
+    },
+    {
+      "Country": "Georgia",
+      "Married": 67,
+      "Living together as married": 0.5,
+      "Divorced": 2.1,
+      "Separated": 1.1,
+      "Widowed": 10,
+      "Single/Never married": 19.2
+    },
+    {
+      "Country": "India",
+      "Married": 80.5,
+      "Living together as married": 3.9,
+      "Divorced": 0.2,
+      "Separated": 0.3,
+      "Widowed": 4.2,
+      "Single/Never married": 10.7
+    },
+    {
+      "Country": "Japan",
+      "Married": 72.4,
+      "Living together as married": 1.7,
+      "Divorced": 3,
+      "Separated": 0.5,
+      "Widowed": 4.7,
+      "Single/Never married": 17.1
+    },
+    {
+      "Country": "South Korea",
+      "Married": 67.3,
+      "Living together as married": 0.4,
+      "Divorced": 1.6,
+      "Separated": 0.5,
+      "Widowed": 5.2,
+      "Single/Never married": 25
+    },
+    {
+      "Country": "Mexico",
+      "Married": 54.7,
+      "Living together as married": 10.4,
+      "Divorced": 1.9,
+      "Separated": 4.5,
+      "Widowed": 5.3,
+      "Single/Never married": 23.1
+    },
+    {
+      "Country": "New Zealand",
+      "Married": 58.7,
+      "Living together as married": 9.9,
+      "Divorced": 4.4,
+      "Separated": 3.8,
+      "Widowed": 5.3,
+      "Single/Never married": 14.8
+    },
+    {
+      "Country": "Peru",
+      "Married": 35.8,
+      "Living together as married": 24.6,
+      "Divorced": 0.7,
+      "Separated": 3.3,
+      "Widowed": 3.6,
+      "Single/Never married": 31.9
+    },
+    {
+      "Country": "Poland",
+      "Married": 58.1,
+      "Living together as married": 2.6,
+      "Divorced": 4,
+      "Separated": 0.8,
+      "Widowed": 8.8,
+      "Single/Never married": 25.7
+    },
+    {
+      "Country": "Romania",
+      "Married": 67.6,
+      "Living together as married": 2.8,
+      "Divorced": 3,
+      "Separated": 0.3,
+      "Widowed": 12.6,
+      "Single/Never married": 13.5
+    },
+    {
+      "Country": "Russia",
+      "Married": 54.8,
+      "Living together as married": 6.1,
+      "Divorced": 6.8,
+      "Separated": 0.8,
+      "Widowed": 11.2,
+      "Single/Never married": 19
+    },
+    {
+      "Country": "Serbia",
+      "Married": 59.6,
+      "Living together as married": 4.1,
+      "Divorced": 4.4,
+      "Separated": 0.7,
+      "Widowed": 6.4,
+      "Single/Never married": 21.9
+    },
+    {
+      "Country": "Slovenia",
+      "Married": 50.7,
+      "Living together as married": 13.5,
+      "Divorced": 2.2,
+      "Separated": 3.4,
+      "Widowed": 8.6,
+      "Single/Never married": 21.2
+    },
+    {
+      "Country": "South Africa",
+      "Married": 35.1,
+      "Living together as married": 10.6,
+      "Divorced": 2,
+      "Separated": 1.1,
+      "Widowed": 6.2,
+      "Single/Never married": 44.9
+    },
+    {
+      "Country": "Spain",
+      "Married": 58.2,
+      "Living together as married": 4.5,
+      "Divorced": 1.5,
+      "Separated": 2,
+      "Widowed": 7.7,
+      "Single/Never married": 25.7
+    },
+    {
+      "Country": "Sweden",
+      "Married": 46.5,
+      "Living together as married": 17.5,
+      "Divorced": 8.8,
+      "Separated": 4.6,
+      "Widowed": 3.7,
+      "Single/Never married": 18.4
+    },
+    {
+      "Country": "Turkey",
+      "Married": 66.4,
+      "Living together as married": 0.1,
+      "Divorced": 1.4,
+      "Separated": 0.2,
+      "Widowed": 2.3,
+      "Single/Never married": 29.6
+    },
+    {
+      "Country": "Ukraine",
+      "Married": 55.9,
+      "Living together as married": 3.9,
+      "Divorced": 6.5,
+      "Separated": 1.5,
+      "Widowed": 13.4,
+      "Single/Never married": 18
+    },
+    {
+      "Country": "United States",
+      "Married": 53.6,
+      "Living together as married": 0,
+      "Divorced": 12.8,
+      "Separated": 2.8,
+      "Widowed": 5.7,
+      "Single/Never married": 25.1
+    },
+    {
+      "Country": "Uruguay",
+      "Married": 41.7,
+      "Living together as married": 15.4,
+      "Divorced": 7.3,
+      "Separated": 2.2,
+      "Widowed": 10.6,
+      "Single/Never married": 22.8
+    }
+  ],
+  "2010_2014": [
+    {
+      "Country": "Argentina",
+      "Married": 34.8,
+      "Living together as married": 17.4,
+      "Divorced": 3.8,
+      "Separated": 6.5,
+      "Widowed": 8.2,
+      "Single": 29.3
+    },
+    {
+      "Country": "Australia",
+      "Married": 53,
+      "Living together as married": 10.8,
+      "Divorced": 5.1,
+      "Separated": 2.7,
+      "Widowed": 4.2,
+      "Single": 23.3
+    },
+    {
+      "Country": "Brazil",
+      "Married": 41.6,
+      "Living together as married": 18.2,
+      "Divorced": 4.1,
+      "Separated": 5.3,
+      "Widowed": 6.3,
+      "Single": 24.1
+    },
+    {
+      "Country": "Chile",
+      "Married": 47.7,
+      "Living together as married": 12.4,
+      "Divorced": 2.3,
+      "Separated": 5.9,
+      "Widowed": 5.4,
+      "Single": 25.8
+    },
+    {
+      "Country": "China",
+      "Married": 83.6,
+      "Living together as married": 0.9,
+      "Divorced": 1.3,
+      "Separated": 0.2,
+      "Widowed": 3.2,
+      "Single": 10.9
+    },
+    {
+      "Country": "Taiwan",
+      "Married": 60.2,
+      "Living together as married": 1.4,
+      "Divorced": 3.5,
+      "Separated": 0.1,
+      "Widowed": 5.2,
+      "Single": 29.4
+    },
+    {
+      "Country": "Colombia",
+      "Married": 29,
+      "Living together as married": 29.5,
+      "Divorced": 1.7,
+      "Separated": 7.3,
+      "Widowed": 3.8,
+      "Single": 28.7
+    },
+    {
+      "Country": "Georgia",
+      "Married": 61.9,
+      "Living together as married": 2.7,
+      "Divorced": 3.2,
+      "Separated": 1.2,
+      "Widowed": 11.3,
+      "Single": 19.6
+    },
+    {
+      "Country": "India",
+      "Married": 85.5,
+      "Living together as married": 1.3,
+      "Divorced": 0.2,
+      "Separated": 0.3,
+      "Widowed": 2.3,
+      "Single": 10.4
+    },
+    {
+      "Country": "Japan",
+      "Married": 67.6,
+      "Living together as married": 1.8,
+      "Divorced": 5.1,
+      "Separated": 0.7,
+      "Widowed": 5.1,
+      "Single": 18.9
+    },
+    {
+      "Country": "South Korea",
+      "Married": 62.7,
+      "Living together as married": 1,
+      "Divorced": 2.3,
+      "Separated": 0.5,
+      "Widowed": 5.7,
+      "Single": 27
+    },
+    {
+      "Country": "Mexico",
+      "Married": 45.5,
+      "Living together as married": 18.2,
+      "Divorced": 2.3,
+      "Separated": 5.6,
+      "Widowed": 3.9,
+      "Single": 24.6
+    },
+    {
+      "Country": "New Zealand",
+      "Married": 56.7,
+      "Living together as married": 13.4,
+      "Divorced": 4,
+      "Separated": 2.4,
+      "Widowed": 5.8,
+      "Single": 14.1
+    },
+    {
+      "Country": "Pakistan",
+      "Married": 73.5,
+      "Living together as married": 0,
+      "Divorced": 0.2,
+      "Separated": 0.5,
+      "Widowed": 1.3,
+      "Single": 24.6
+    },
+    {
+      "Country": "Peru",
+      "Married": 32.4,
+      "Living together as married": 24.4,
+      "Divorced": 2.3,
+      "Separated": 5.2,
+      "Widowed": 4.3,
+      "Single": 31.5
+    },
+    {
+      "Country": "Philippines",
+      "Married": 70.1,
+      "Living together as married": 7.6,
+      "Divorced": 0.3,
+      "Separated": 3.1,
+      "Widowed": 5.8,
+      "Single": 13.2
+    },
+    {
+      "Country": "Poland",
+      "Married": 57.5,
+      "Living together as married": 4.5,
+      "Divorced": 4,
+      "Separated": 1.1,
+      "Widowed": 10.9,
+      "Single": 21.4
+    },
+    {
+      "Country": "Romania",
+      "Married": 58.8,
+      "Living together as married": 7,
+      "Divorced": 4.7,
+      "Separated": 1,
+      "Widowed": 10.6,
+      "Single": 17.5
+    },
+    {
+      "Country": "Russia",
+      "Married": 48.3,
+      "Living together as married": 6.5,
+      "Divorced": 13,
+      "Separated": 1.9,
+      "Widowed": 12.6,
+      "Single": 17
+    },
+    {
+      "Country": "Singapore",
+      "Married": 62.2,
+      "Living together as married": 2.7,
+      "Divorced": 2.2,
+      "Separated": 0.5,
+      "Widowed": 2.5,
+      "Single": 29.8
+    },
+    {
+      "Country": "Slovenia",
+      "Married": 52.4,
+      "Living together as married": 13,
+      "Divorced": 3.6,
+      "Separated": 0.5,
+      "Widowed": 9.3,
+      "Single": 20.5
+    },
+    {
+      "Country": "South Africa",
+      "Married": 33.8,
+      "Living together as married": 9.9,
+      "Divorced": 1.3,
+      "Separated": 0.6,
+      "Widowed": 6.7,
+      "Single": 47.6
+    },
+    {
+      "Country": "Spain",
+      "Married": 49.7,
+      "Living together as married": 8.8,
+      "Divorced": 4.2,
+      "Separated": 2.8,
+      "Widowed": 7.1,
+      "Single": 27.3
+    },
+    {
+      "Country": "Sweden",
+      "Married": 40.9,
+      "Living together as married": 17.7,
+      "Divorced": 6.1,
+      "Separated": 4.6,
+      "Widowed": 5,
+      "Single": 24.1
+    },
+    {
+      "Country": "Turkey",
+      "Married": 68.4,
+      "Living together as married": 0.8,
+      "Divorced": 2.7,
+      "Separated": 0.5,
+      "Widowed": 4.5,
+      "Single": 23
+    },
+    {
+      "Country": "Ukraine",
+      "Married": 53.6,
+      "Living together as married": 3.7,
+      "Divorced": 9.8,
+      "Separated": 1.4,
+      "Widowed": 15.2,
+      "Single": 16.4
+    },
+    {
+      "Country": "United States",
+      "Married": 54.4,
+      "Living together as married": 9.9,
+      "Divorced": 9.6,
+      "Separated": 2.3,
+      "Widowed": 4.7,
+      "Single": 19.2
+    },
+    {
+      "Country": "Uruguay",
+      "Married": 34.7,
+      "Living together as married": 20.3,
+      "Divorced": 7,
+      "Separated": 4.9,
+      "Widowed": 9,
+      "Single": 24.1
+    }
+  ]
 }

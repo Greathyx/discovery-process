@@ -10,7 +10,7 @@
           <router-link to="/WVS/NationProud" class="link">WVS Online Analysis</router-link>
         </v-tab>
         <v-tab>
-          <router-link to="/news" class="link">My Discovery Process</router-link>
+          <router-link to="/DiscoveryProcess" class="link">My Discovery Process</router-link>
         </v-tab>
       </v-tabs>
     </v-app-bar>

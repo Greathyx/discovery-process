@@ -6,9 +6,10 @@ import Charts from 'fusioncharts/fusioncharts.charts';
 import FusionTheme from 'fusioncharts/themes/fusioncharts.theme.fusion';
 import FusionMaps from 'fusioncharts/fusioncharts.maps';
 import World from 'fusioncharts/maps/fusioncharts.world';
+import WorldWithCountries from 'fusionmaps/maps/fusioncharts.worldwithcountries';
 
 Vue.use(VueFusionCharts, FusionCharts, Charts, FusionTheme,
-    FusionMaps, World);
+    FusionMaps, World, WorldWithCountries);
 
 export default {
     VueFusionCharts,
@@ -17,4 +18,5 @@ export default {
     FusionTheme,
     FusionMaps,
     World,
+    WorldWithCountries
 }

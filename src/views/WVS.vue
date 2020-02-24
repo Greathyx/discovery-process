@@ -46,18 +46,18 @@
           </v-list-item>
         </router-link>
 
-        <router-link to="/WVS/EscapePoverty" class="link">
+        <router-link to="/WVS/HealthState" class="link">
           <v-list-item link>
             <v-list-item-content>
-              <v-list-item-title>Chance to Escape from Poverty</v-list-item-title>
+              <v-list-item-title>State of health (subjective)</v-list-item-title>
             </v-list-item-content>
           </v-list-item>
         </router-link>
 
-        <router-link to="/WVS/SexualFreedom" class="link">
+        <router-link to="/WVS/Freedom" class="link">
           <v-list-item link>
             <v-list-item-content>
-              <v-list-item-title>Enjoy Sexual Freedom</v-list-item-title>
+              <v-list-item-title>Freedom of Choice and Control</v-list-item-title>
             </v-list-item-content>
           </v-list-item>
         </router-link>
