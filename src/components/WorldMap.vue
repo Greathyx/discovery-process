@@ -15,6 +15,21 @@
     import worldMapData from '../data/worldMapData';
     import HappinessFeel from "../data/HappinessFeel";
 
+    const country_list = ["China", "Singapore", "Japan", "Argentina", "Australia", "Brazil",
+        "Bulgaria", "Colombia", "Chile", "Georgia", "India", "Mexico", "New Zealand", "Pakistan",
+        "Peru", "Philippines", "Poland", "Romania", "Russian Federation", "Serbia", "Slovenia",
+        "South Africa", "South Korea", "Spain", "Sweden", "Turkey", "Ukraine", "United States",
+        "Uruguay"];
+    const country_id_list = [101, 119, 107, 25, 175, 27, 135, 29, 28, 103, 104, 16, 181, 116,
+        35, 117, 159, 161, 118, 163, 165, 80, 110, 166, 167, 173, 169, 23 , 37];
+    const country_abbr_list = ["CN", "SG", "JP", "AR", "AU", "BR", "BG", "CO", "CL", "GE", "IN",
+        "MX", "NZ", "PK", "PE", "PH", "PL", "RO", "RU", "CS", "SI", "ZA", "KR", "ES", "SE", "TK",
+        "UA", "US", "UY"];
+
+    console.log("country_list length:" + country_list.length);
+    console.log("country_id_list length:" + country_id_list.length);
+    console.log("country_abbr_list length:" + country_abbr_list.length);
+
     let dataset = [];
     let i_1995_1999 = -1;
     let i_2000_2004 = -1;

@@ -97,7 +97,7 @@
                     4: MaritalStatus["2005_2009"][i]["Divorced"] + "%",
                     3: MaritalStatus["2005_2009"][i]["Separated"] + "%",
                     2: MaritalStatus["2005_2009"][i]["Widowed"] + "%",
-                    1: MaritalStatus["2005_2009"][i]["Single/Never married"] + "%",
+                    1: MaritalStatus["2005_2009"][i]["Single"] + "%",
                 };
                 data_2005_2009.push(element);
             }

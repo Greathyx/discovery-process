@@ -651,6 +651,7 @@
       "Good": 46.4,
       "Fair": 19.9,
       "Poor": 4.8,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -659,6 +660,7 @@
       "Good": 46.2,
       "Fair": 18.5,
       "Poor": 3.1,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -667,6 +669,7 @@
       "Good": 47,
       "Fair": 25.5,
       "Poor": 3.1,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -675,6 +678,7 @@
       "Good": 53.7,
       "Fair": 23.8,
       "Poor": 3.4,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -683,6 +687,7 @@
       "Good": 45.1,
       "Fair": 24.7,
       "Poor": 6.1,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -691,6 +696,7 @@
       "Good": 58.9,
       "Fair": 10.8,
       "Poor": 2.7,
+      "Very poor": 0,
       "Not know": 0.2
     },
     {
@@ -699,6 +705,7 @@
       "Good": 49.9,
       "Fair": 22.2,
       "Poor": 1.7,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -707,6 +714,7 @@
       "Good": 29,
       "Fair": 37.4,
       "Poor": 20,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -715,6 +723,7 @@
       "Good": 45.3,
       "Fair": 20.6,
       "Poor": 7.3,
+      "Very poor": 0,
       "Not know": 0.2
     },
     {
@@ -723,6 +732,7 @@
       "Good": 37.9,
       "Fair": 37.5,
       "Poor": 9.6,
+      "Very poor": 0,
       "Not know": 1.7
     },
     {
@@ -731,6 +741,7 @@
       "Good": 65.2,
       "Fair": 17.6,
       "Poor": 0.9,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -739,6 +750,7 @@
       "Good": 46.6,
       "Fair": 25.1,
       "Poor": 2.2,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -747,6 +759,7 @@
       "Good": 45.2,
       "Fair": 15.3,
       "Poor": 2.7,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -755,6 +768,7 @@
       "Good": 43.2,
       "Fair": 15.7,
       "Poor": 4.6,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -763,6 +777,7 @@
       "Good": 41.1,
       "Fair": 41.8,
       "Poor": 3.6,
+      "Very poor": 0,
       "Not know": 0.2
     },
     {
@@ -771,6 +786,7 @@
       "Good": 38.8,
       "Fair": 38.3,
       "Poor": 5.1,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -779,6 +795,7 @@
       "Good": 40.4,
       "Fair": 28.5,
       "Poor": 10.3,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -787,6 +804,7 @@
       "Good": 49.7,
       "Fair": 25.9,
       "Poor": 8.9,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -795,6 +813,7 @@
       "Good": 39,
       "Fair": 44.5,
       "Poor": 10.6,
+      "Very poor": 0,
       "Not know": 0.4
     },
     {
@@ -803,6 +822,7 @@
       "Good": 53.6,
       "Fair": 17.2,
       "Poor": 2,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -811,6 +831,7 @@
       "Good": 42.8,
       "Fair": 22.9,
       "Poor": 12,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -819,6 +840,7 @@
       "Good": 42,
       "Fair": 11.9,
       "Poor": 4.3,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -827,6 +849,7 @@
       "Good": 53.9,
       "Fair": 20.6,
       "Poor": 5,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -835,6 +858,7 @@
       "Good": 44.8,
       "Fair": 21,
       "Poor": 3.3,
+      "Very poor": 0,
       "Not know": 0.1
     },
     {
@@ -843,6 +867,7 @@
       "Good": 47.6,
       "Fair": 25.5,
       "Poor": 5.6,
+      "Very poor": 0,
       "Not know": 1
     },
     {
@@ -851,6 +876,7 @@
       "Good": 31.2,
       "Fair": 45.5,
       "Poor": 16.6,
+      "Very poor": 0,
       "Not know": 0.6
     },
     {
@@ -859,6 +885,7 @@
       "Good": 52.1,
       "Fair": 16.1,
       "Poor": 3.3,
+      "Very poor": 0,
       "Not know": 0
     },
     {
@@ -867,6 +894,7 @@
       "Good": 54.6,
       "Fair": 16.4,
       "Poor": 3.1,
+      "Very poor": 0,
       "Not know": 0
     }
   ]

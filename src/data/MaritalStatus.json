@@ -442,7 +442,7 @@
       "Divorced": 2.8,
       "Separated": 5.4,
       "Widowed": 9.3,
-      "Single/Never married": 26.4
+      "Single": 26.4
     },
     {
       "Country": "Australia",
@@ -451,7 +451,7 @@
       "Divorced": 6.5,
       "Separated": 3.2,
       "Widowed": 6.8,
-      "Single/Never married": 15.2
+      "Single": 15.2
     },
     {
       "Country": "Brazil",
@@ -460,7 +460,7 @@
       "Divorced": 3.4,
       "Separated": 5.6,
       "Widowed": 5.8,
-      "Single/Never married": 26.8
+      "Single": 26.8
     },
     {
       "Country": "Bulgaria",
@@ -469,7 +469,7 @@
       "Divorced": 4.7,
       "Separated": 0.9,
       "Widowed": 11.6,
-      "Single/Never married": 13.3
+      "Single": 13.3
     },
     {
       "Country": "Chile",
@@ -478,7 +478,7 @@
       "Divorced": 1.2,
       "Separated": 6.3,
       "Widowed": 8.8,
-      "Single/Never married": 26.1
+      "Single": 26.1
     },
     {
       "Country": "China",
@@ -487,7 +487,7 @@
       "Divorced": 1.2,
       "Separated": 0.6,
       "Widowed": 2.7,
-      "Single/Never married": 14.5
+      "Single": 14.5
     },
     {
       "Country": "Taiwan",
@@ -496,7 +496,7 @@
       "Divorced": 3.4,
       "Separated": 0.5,
       "Widowed": 5.1,
-      "Single/Never married": 27.7
+      "Single": 27.7
     },
     {
       "Country": "Colombia",
@@ -505,7 +505,7 @@
       "Divorced": 0,
       "Separated": 4.9,
       "Widowed": 3.7,
-      "Single/Never married": 32.3
+      "Single": 32.3
     },
     {
       "Country": "Georgia",
@@ -514,7 +514,7 @@
       "Divorced": 2.1,
       "Separated": 1.1,
       "Widowed": 10,
-      "Single/Never married": 19.2
+      "Single": 19.2
     },
     {
       "Country": "India",
@@ -523,7 +523,7 @@
       "Divorced": 0.2,
       "Separated": 0.3,
       "Widowed": 4.2,
-      "Single/Never married": 10.7
+      "Single": 10.7
     },
     {
       "Country": "Japan",
@@ -532,7 +532,7 @@
       "Divorced": 3,
       "Separated": 0.5,
       "Widowed": 4.7,
-      "Single/Never married": 17.1
+      "Single": 17.1
     },
     {
       "Country": "South Korea",
@@ -541,7 +541,7 @@
       "Divorced": 1.6,
       "Separated": 0.5,
       "Widowed": 5.2,
-      "Single/Never married": 25
+      "Single": 25
     },
     {
       "Country": "Mexico",
@@ -550,7 +550,7 @@
       "Divorced": 1.9,
       "Separated": 4.5,
       "Widowed": 5.3,
-      "Single/Never married": 23.1
+      "Single": 23.1
     },
     {
       "Country": "New Zealand",
@@ -559,7 +559,7 @@
       "Divorced": 4.4,
       "Separated": 3.8,
       "Widowed": 5.3,
-      "Single/Never married": 14.8
+      "Single": 14.8
     },
     {
       "Country": "Peru",
@@ -568,7 +568,7 @@
       "Divorced": 0.7,
       "Separated": 3.3,
       "Widowed": 3.6,
-      "Single/Never married": 31.9
+      "Single": 31.9
     },
     {
       "Country": "Poland",
@@ -577,7 +577,7 @@
       "Divorced": 4,
       "Separated": 0.8,
       "Widowed": 8.8,
-      "Single/Never married": 25.7
+      "Single": 25.7
     },
     {
       "Country": "Romania",
@@ -586,7 +586,7 @@
       "Divorced": 3,
       "Separated": 0.3,
       "Widowed": 12.6,
-      "Single/Never married": 13.5
+      "Single": 13.5
     },
     {
       "Country": "Russia",
@@ -595,7 +595,7 @@
       "Divorced": 6.8,
       "Separated": 0.8,
       "Widowed": 11.2,
-      "Single/Never married": 19
+      "Single": 19
     },
     {
       "Country": "Serbia",
@@ -604,7 +604,7 @@
       "Divorced": 4.4,
       "Separated": 0.7,
       "Widowed": 6.4,
-      "Single/Never married": 21.9
+      "Single": 21.9
     },
     {
       "Country": "Slovenia",
@@ -613,7 +613,7 @@
       "Divorced": 2.2,
       "Separated": 3.4,
       "Widowed": 8.6,
-      "Single/Never married": 21.2
+      "Single": 21.2
     },
     {
       "Country": "South Africa",
@@ -622,7 +622,7 @@
       "Divorced": 2,
       "Separated": 1.1,
       "Widowed": 6.2,
-      "Single/Never married": 44.9
+      "Single": 44.9
     },
     {
       "Country": "Spain",
@@ -631,7 +631,7 @@
       "Divorced": 1.5,
       "Separated": 2,
       "Widowed": 7.7,
-      "Single/Never married": 25.7
+      "Single": 25.7
     },
     {
       "Country": "Sweden",
@@ -640,7 +640,7 @@
       "Divorced": 8.8,
       "Separated": 4.6,
       "Widowed": 3.7,
-      "Single/Never married": 18.4
+      "Single": 18.4
     },
     {
       "Country": "Turkey",
@@ -649,7 +649,7 @@
       "Divorced": 1.4,
       "Separated": 0.2,
       "Widowed": 2.3,
-      "Single/Never married": 29.6
+      "Single": 29.6
     },
     {
       "Country": "Ukraine",
@@ -658,7 +658,7 @@
       "Divorced": 6.5,
       "Separated": 1.5,
       "Widowed": 13.4,
-      "Single/Never married": 18
+      "Single": 18
     },
     {
       "Country": "United States",
@@ -667,7 +667,7 @@
       "Divorced": 12.8,
       "Separated": 2.8,
       "Widowed": 5.7,
-      "Single/Never married": 25.1
+      "Single": 25.1
     },
     {
       "Country": "Uruguay",
@@ -676,7 +676,7 @@
       "Divorced": 7.3,
       "Separated": 2.2,
       "Widowed": 10.6,
-      "Single/Never married": 22.8
+      "Single": 22.8
     }
   ],
   "2010_2014": [
