@@ -22,7 +22,6 @@
                 width: "90%",
                 height: "90%",
                 dataFormat: "json",
-                showLegend: "0",
                 dataSource: worldMapData,
             }
         },

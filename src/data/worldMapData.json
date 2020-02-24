@@ -3,6 +3,7 @@
     "caption": "Current World-wide Situation of 8 Variables",
     "subcaption": "data from WVS Database and Gapminder",
     "entitytooltext": "$lname",
+    "showLegend": "0",
     "entityFillHoverColor": "#D7DDFF",
     "theme": "fusion",
     "nullEntityColor": "#C2C2D6",
