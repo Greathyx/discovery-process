@@ -11,7 +11,7 @@
         >
           <v-flex shrink style="width: 90%">
             <h1>Take China for an example:</h1>
-            <p>From the map chart, we can see:</p>
+            <p>From GLOBAL DATA page, we can see:</p>
             <v-timeline
                     :align-top="alignTop"
                     :dense="dense"

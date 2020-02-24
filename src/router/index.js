@@ -10,6 +10,7 @@ import HealthState from "../views/HealthState";
 import Freedom from "../views/Freedom";
 import ChildrenAmount from "../views/ChildrenAmount";
 import DiscoveryProcess from "../views/DiscoveryProcess";
+import DiscoveryProcessWVS from "../views/DiscoveryProcessWVS";
 
 Vue.use(VueRouter);
 
@@ -63,6 +64,11 @@ const routes = [
         path: '/DiscoveryProcess',
         name: 'DiscoveryProcess',
         component: DiscoveryProcess
+    },
+    {
+        path: '/DiscoveryProcessWVS',
+        name: 'DiscoveryProcessWVS',
+        component: DiscoveryProcessWVS
     }
 ];
 

@@ -12,9 +12,9 @@
         <v-tab>
           <router-link to="/DiscoveryProcess" class="link">My Discovery Process</router-link>
         </v-tab>
-<!--        <v-tab>-->
-<!--          <router-link to="/DiscoveryProcess2" class="link">WVS Discovery Process</router-link>-->
-<!--        </v-tab>-->
+        <v-tab>
+          <router-link to="/DiscoveryProcessWVS" class="link">WVS Discovery Process</router-link>
+        </v-tab>
       </v-tabs>
     </v-app-bar>
 
