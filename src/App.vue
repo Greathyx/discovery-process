@@ -7,11 +7,14 @@
       <v-toolbar-title style="width: 200px">Discovery Process</v-toolbar-title>
       <v-tabs color="teal" id="tab">
         <v-tab>
-          <router-link to="/WVS/NationProud" class="link">WVS Online Analysis</router-link>
+          <router-link to="/WVS/NationProud" class="link">Global Data</router-link>
         </v-tab>
         <v-tab>
           <router-link to="/DiscoveryProcess" class="link">My Discovery Process</router-link>
         </v-tab>
+<!--        <v-tab>-->
+<!--          <router-link to="/DiscoveryProcess2" class="link">WVS Discovery Process</router-link>-->
+<!--        </v-tab>-->
       </v-tabs>
     </v-app-bar>
 
