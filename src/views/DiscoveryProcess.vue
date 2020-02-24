@@ -10,7 +10,7 @@
                 justify-center
         >
           <v-flex shrink>
-            <WorldMap/>
+<!--            <WorldMap/>-->
           </v-flex>
         </v-layout>
       </v-container>
@@ -19,12 +19,12 @@
 </template>
 
 <script>
-    import WorldMap from "../components/WorldMap";
+    // import WorldMap from "../components/WorldMap";
 
     export default {
         name: 'DiscoveryProcess',
         components: {
-            WorldMap
+            // WorldMap
         },
 
         data: () => ({}),
