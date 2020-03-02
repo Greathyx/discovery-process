@@ -10,8 +10,11 @@
                 justify-center
         >
           <v-flex shrink style="width: 90%">
-            <h1>Take China for an example:</h1>
-            <p>From GLOBAL DATA page, we can see:</p>
+            <h1>My discovery process</h1>
+            <p>A "discovery process" is the story of the analysis told in pictures and words. My discovery process
+              consists of the GLOBAL DATA page and this page. This is just one example to
+              illustrate what discovery I can make through the interactive charts I create.</p>
+            <p>Let's take China for example:</p>
             <v-timeline
                     :align-top="alignTop"
                     :dense="dense"
